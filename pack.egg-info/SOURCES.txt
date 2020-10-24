@@ -1,0 +1,8 @@
+setup.py
+pack/__init__.py
+pack/handler.py
+pack.egg-info/PKG-INFO
+pack.egg-info/SOURCES.txt
+pack.egg-info/dependency_links.txt
+pack.egg-info/not-zip-safe
+pack.egg-info/top_level.txt
